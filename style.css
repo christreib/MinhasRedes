@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/assets/bg-mobile.jpg);
+  --bg-url: url(./assets/bg-novo.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --high-light-color: rgba(255, 255, 255, 0.2);
@@ -15,7 +15,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/assets/bg-mobile-light.jpg);
+  --bg-url: url(./assets/bg-novo-2.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --high-light-color: rgba(0, 0, 0, 0.1);
